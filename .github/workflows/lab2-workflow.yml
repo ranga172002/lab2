@@ -3,7 +3,7 @@ name: Exploring Workflow Dispatch Trigger
 on:
   workflow_dispatch:
 
-jobs:
+jobs: 
   job1:
     runs-on: ubuntu-latest
     steps:
